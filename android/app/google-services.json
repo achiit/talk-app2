@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "508803014569",
+    "project_id": "pillowtalk-c99d4",
+    "storage_bucket": "pillowtalk-c99d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508803014569:android:5a0a2f6721e8e026e52eb8",
+        "android_client_info": {
+          "package_name": "com.pillowtalk.gamesforcouples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508803014569-0vtnj6cr48su0p692elqt7c2ks3eb481.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pillowtalk.gamesforcouples",
+            "certificate_hash": "27ac0c02d89afe7044b3282ce882913c19f9d400"
+          }
+        },
+        {
+          "client_id": "508803014569-g82iodk3iq1l69puq04gtvfuid8d7buc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pillowtalk.gamesforcouples",
+            "certificate_hash": "c7ecdacffbf307b6023b5ffb78ab3c80d267203e"
+          }
+        },
+        {
+          "client_id": "508803014569-jgetk6bes3g9c7sq53lt4e23dm1spchd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0C6lQC6bvG-Ub4UU145h3caF-9wcl9oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508803014569-jgetk6bes3g9c7sq53lt4e23dm1spchd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "508803014569-5dru4hlg7akitsj7092ggkhrqli60quv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pillowtalk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
